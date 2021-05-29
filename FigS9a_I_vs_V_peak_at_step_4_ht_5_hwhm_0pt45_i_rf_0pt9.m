@@ -1,7 +1,7 @@
 clear all
 b=0.9;%i_rf
 ht=5;%Height of the resistance peak
-hwhm=0.25;%HWHM of the resistance peak
+hwhm=0.45;%HWHM of the resistance peak
 c=0:0.01:1.3; %i_dc
 x=length(c);
 
